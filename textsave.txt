@@ -1,0 +1,28 @@
+2022-06-20:18:17:47,673 INFO     [executor.py:362] Bot: homework [@homeworkoneBot]
+2022-06-20:18:17:47,674 INFO     [dispatcher.py:358] Start polling.
+2022-06-20:18:17:57,348 INFO     [bot.py:24] user_name='Denisenko' user_id=450382814 sent message: /start
+2022-06-20:18:18:02,66 INFO     [bot.py:33] user_name='Denisenko' user_id=450382814 sent message: ULIUMDZHI IUREVICH ULIUMDZHIEV
+2022-06-20:18:18:07,496 INFO     [bot.py:33] user_name='Denisenko' user_id=450382814 sent message: PETROVAVODKINA ANNAMARIIA
+2022-06-20:18:18:13,657 INFO     [bot.py:33] user_name='Denisenko' user_id=450382814 sent message: DENISENKO DMITRIJ SERGEEVICH
+2022-06-20:18:18:33,620 INFO     [dispatcher.py:433] Stop polling...
+2022-06-20:18:18:33,621 WARNING  [executor.py:329] Goodbye!
+2022-06-20:18:40:12,747 INFO     [executor.py:362] Bot: homework [@homeworkoneBot]
+2022-06-20:18:40:12,749 INFO     [dispatcher.py:358] Start polling.
+2022-06-20:18:40:19,765 INFO     [bot.py:24] user_name='Denisenko' user_id=450382814 sent message: /start
+2022-06-20:18:40:34,724 INFO     [bot.py:33] user_name='Denisenko' user_id=450382814 sent message: DOKER NE SOHRANIAET ARHIV
+2022-06-20:18:41:29,727 INFO     [dispatcher.py:433] Stop polling...
+2022-06-20:18:41:29,727 WARNING  [executor.py:329] Goodbye!
+2022-06-20:18:41:33,902 INFO     [executor.py:362] Bot: homework [@homeworkoneBot]
+2022-06-20:18:41:33,902 INFO     [dispatcher.py:358] Start polling.
+2022-06-20:18:41:36,348 INFO     [bot.py:24] user_name='Denisenko' user_id=450382814 sent message: /start
+2022-06-20:18:41:41,71 INFO     [bot.py:33] user_name='Denisenko' user_id=450382814 sent message: Докер не сохраняет архив
+2022-06-20:19:18:04,122 INFO     [executor.py:362] Bot: homework [@homeworkoneBot]
+2022-06-20:19:18:04,123 INFO     [dispatcher.py:358] Start polling.
+2022-06-20:19:18:13,333 INFO     [bot.py:33] user_name='Denisenko' user_id=450382814 sent message: HEJ
+2022-06-20:19:19:44,619 INFO     [bot.py:24] user_name='Vital’ka Andreev' user_id=1030215611 sent message: /start
+2022-06-20:19:19:52,689 INFO     [bot.py:33] user_name='Vital’ka Andreev' user_id=1030215611 sent message: ANDREEV VITALIJ
+2022-06-20:19:20:01,103 INFO     [bot.py:33] user_name='Vital’ka Andreev' user_id=1030215611 sent message: SLAT
+2022-06-20:19:20:53,77 INFO     [bot.py:24] user_name='ulyumdzhi' user_id=49131625 sent message: /start
+2022-06-20:19:20:58,743 INFO     [bot.py:33] user_name='ulyumdzhi' user_id=49131625 sent message: IUREVICH
+2022-06-20:19:37:04,86 INFO     [dispatcher.py:433] Stop polling...
+2022-06-20:19:37:04,89 WARNING  [executor.py:329] Goodbye!

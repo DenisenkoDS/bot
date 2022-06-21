@@ -1,10 +1,8 @@
-Bot
+This bot transliterates сyrillic alphabet into latin!
 
-this bot transliterates russian words into latin!
+1. Open a terminal in your Python interpreter.
 
-1. Open a terminal in your Python interpreter
-
-2. Write commands: docker build . Docker will build your bot
+2. Write commands: «docker build .» Docker will build your bot:
 
 *docker images Docker checks created images
 
@@ -12,4 +10,4 @@ this bot transliterates russian words into latin!
 
 *docker ps Docker checks running containers
 
-3. Congratulations!Your bot active
+3. Congratulations! Your bot active.
